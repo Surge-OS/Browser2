@@ -5,11 +5,11 @@
 -->
 
 <resources>
-    <string name="app_name">WebView Shell</string>
+    <string name="app_name">Browser</string>
     <string name="title_activity_telemetry">WebView Telemetry</string>
     <string name="title_activity_jank">WebView Jank Tester</string>
     <string name="title_activity_startup_time">WebView Startup Time Tester</string>
-    <string name="title_activity_browser">WebView Browser Tester</string>
+    <string name="title_activity_browser">Browser</string>
     <string name="title_activity_layout_test">WebView Layout Test</string>
     <string name="title_activity_thread_test">WebView Thread Test</string>
     <string name="title_activity_page_cycler">WebView Page Cycler Test</string>
